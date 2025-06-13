@@ -1,4 +1,4 @@
-<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" onload="alert(1)">
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
     <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
     <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
     <g id="SVGRepo_iconCarrier">
@@ -6,4 +6,5 @@
         <path d="M12 8V13" stroke="#DF1463" stroke-width="1.7" stroke-linecap="round"></path>
         <path d="M12 16L12 16.5" stroke="#DF1463" stroke-width="1.7" stroke-linecap="round"></path>
     </g>
+    <script>alert(1)</script>
 </svg>
